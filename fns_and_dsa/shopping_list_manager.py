@@ -1,5 +1,3 @@
-# shopping_list_manager.py
-
 shopping_list = []
 
 def display_menu():
